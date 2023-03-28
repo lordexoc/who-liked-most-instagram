@@ -2,8 +2,7 @@ import instaloader
 
 L = instaloader.Instaloader()
 
-username = 'username'
-password = 'pass'
+username = 'airsoftlordex'
 
 profile_username = 'gaben_newell'
 
@@ -36,7 +35,8 @@ for post in profile.get_posts():
         # Get the comments of the post
         post_comments = post.get_comments()
 
-        # It will create a file named as profile_username.txt and write all likes to it. You can find your cmd path and open it. ex: if your cmd path is C:\Users\MyPC> then you can find your file in C:\Users\MyPC\profile_username.txt
+        # It will create a file named as profile_username.txt and write all likes to it. 
+        # You can find your cmd path and open it. ex: if your cmd path is C:\Users\MyPC> then you can find your file in C:\Users\MyPC\profile_username.txt
         like_count = {}
         for likee in post_likes:
             print(likee.username)
