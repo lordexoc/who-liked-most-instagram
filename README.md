@@ -1,7 +1,7 @@
-# who-liked-most-instagram
-You can see who liked most. It doesn't matter your account or not. You can check my cousin's instagram account as well
+# Instagram Like Counter who-liked-most-instagram
+You can see who liked most. It doesn't matter your account or not. You can also check my cousin's Instagram account using the same method.
 
-1.  Install instaloader (pip install loader) if you are using windows you can check the link to find best install package
+1.  Install instaloader (pip3 install loader) if you are using windows you can check the link to find best install package
  https://instaloader.github.io/installation.html
 
 2. install a firefox 
