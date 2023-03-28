@@ -2,7 +2,7 @@ import instaloader
 
 L = instaloader.Instaloader()
 
-username = 'airsoftlordex'
+username = 'username'
 
 profile_username = 'gaben_newell'
 
