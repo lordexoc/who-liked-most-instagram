@@ -14,3 +14,5 @@ https://www.mozilla.org/firefox/new/
 5. edit your script.py your profile username which you logged in firefox and edit profile_username you want to check
 
 6. python3 script.py
+
+7. paste your likes in to https://www.somacon.com/p568.php and click "Display/Update Counts"
